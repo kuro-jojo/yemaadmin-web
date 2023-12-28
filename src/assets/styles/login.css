@@ -1,0 +1,37 @@
+.login-btn {
+  width: 40% !important;
+  margin: auto !important;
+}
+.form-group {
+  display: flex;
+  width: 80%;
+
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin-top: 10rem;
+}
+
+.welcome {
+  display: flex;
+  padding: 3rem;
+}
+.welcome span {
+  margin-left: 1rem;
+  padding-top: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #000;
+}
+
+.forgot-password {
+  text-decoration: none;
+  display: flex;
+  font-size: 1rem;
+  justify-content: start;
+  margin-bottom: 1rem;
+  margin-left: 2rem;
+  color: blue;
+}
